@@ -1,3 +1,5 @@
+> This is a Drupal 9 project with Lando. The project gives you JSON API that list all devices on a specific content type.
+
 ### HOW TO GET STARTED
 
 > You will need to have Lando installed on your local machine. here is the installation guide https://docs.lando.dev/basics/installation.html.
