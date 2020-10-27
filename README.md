@@ -3,7 +3,7 @@
 > You will need to have Lando installed on your local machine. here is the installation guide https://docs.lando.dev/basics/installation.html.
 
 ### Steps
-1. Clone the repo to your local machine `git clone https://gitlab.com/ikeymarilele/xilumani-guest-house.git`
+1. Clone the repo to your local machine `git clone https://github.com/imarilele/mtn.git`
 2. Go to your peojeect and run `lando start` (this will also gives you a URL to the website )
 3. run `lando ssh`
 4. Import the database run `lando db-import database.sql.gz` 
