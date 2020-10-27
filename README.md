@@ -5,10 +5,9 @@
 ### Steps
 1. Clone the repo to your local machine `git clone https://github.com/imarilele/mtn.git`
 2. Go to your peojeect and run `lando start` (this will also gives you a URL to the website )
-3. run `lando ssh`
-4. Import the database run `lando db-import database.sql.gz` 
+3. Import the database run `lando db-import database.sql.gz` 
 
-5. You can run `lando info` (This will show all information about your website, including urls and database information) 
+4. You can run `lando info` (This will show all information about your website, including urls and database information) 
 
 ### Drupal Login Details
 - cd web
