@@ -1,4 +1,4 @@
-> This is a Drupal 9 project with Lando. The project gives you JSON API that list all devices on a specific content type.
+> This is a Drupal 9 project with Lando. The project gives you JSON API that list all devices on a specific content type. Postman Demonstration are on the postman folder.
 
 ### HOW TO GET STARTED
 
